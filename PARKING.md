@@ -1,0 +1,2 @@
+- J184 — le découpage était faux : le tableau à deux colonnes est illisible à remplir. Reprendre en une liste à puces par source, une source à la fois.
+- J184 — appel piézométrie non filtré sur le Var (coordonnées relevées : Pas-de-Calais). Refaire les appels avec le paramètre de département avant toute volumétrie.
