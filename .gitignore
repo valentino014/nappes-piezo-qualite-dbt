@@ -17,6 +17,7 @@ venv/
 .venv/
 .coverage
 *.ipynb_checkpoints/
+explore_*.py
 
 # Données brutes
 /data/
@@ -28,3 +29,7 @@ venv/
 logs/
 target/
 dbt_packages/
+
+# Secrets
+*.p8
+*.pem
